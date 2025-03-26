@@ -1,0 +1,12 @@
+body{
+    background-color:#F8FAFC ;
+    display: flex;
+    justify-content: center;
+}
+.signinbox{
+    border-radius: 1px;
+    border: 1px,solid, black;
+   /* display: flex; */
+   width: 444px;
+   height:454px;
+}
