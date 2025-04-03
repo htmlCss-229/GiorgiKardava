@@ -6,10 +6,13 @@ body {
 }
 
 header {
+    top: 0;
+    position: fixed;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     background-color: #323232;
+    width: 100%;
    
     
   
